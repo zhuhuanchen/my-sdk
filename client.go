@@ -1,7 +1,6 @@
 package mysdk
 
 import (
-	"fmt"
 	"net/http"
 	"io/ioutil"
 )
